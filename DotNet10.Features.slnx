@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/DotNet10.WebApi/DotNet10.WebApi.csproj" Id="c74e896b-8722-4f02-8118-a4fc228fd6b1" />
+  <Project Path="tests/DotNet10.ConsoleTest/DotNet10.ConsoleTest.csproj" Id="ed4192e3-af65-4fd7-abf4-2179de378183" />
+</Solution>
